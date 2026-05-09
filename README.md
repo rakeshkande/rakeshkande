@@ -66,7 +66,7 @@ My conviction: the best AI systems disappear into the background and amplify wha
 - 🛠️ [Model Context Protocol](https://modelcontextprotocol.io/) — Anthropic's open standard for connecting AI to tools and data sources
 - 🎙️ [Latent Space Podcast](https://www.latent.space/) — AI research explained by engineers, for engineers
 
-[→ See all my curated picks at The Learning Compass](https://curated-learning.vercel.app)
+[→ See all my curated picks at The Learning Compass](https://curatedlearning.vercel.app)
 
 ---
 
